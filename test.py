@@ -1,0 +1,2 @@
+print('vanomas')
+print('Zalupa')
