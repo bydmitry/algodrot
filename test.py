@@ -1,2 +1,2 @@
 print('vanomas')
-print('Zalupa')
+print('Zalupazavr')
